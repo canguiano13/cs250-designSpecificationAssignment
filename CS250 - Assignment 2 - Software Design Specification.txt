@@ -13,18 +13,11 @@ Software Architecture Overview:
 
 -Architectural Diagram of all Major Components:
 
-
-  
-
-
-
-
-
-
+  See the PDF for the Architectural Diagram
 
 -UML Class Diagram
   
-
+  See the PDF for this UML diagram.
 
 
 -Description of Classes
