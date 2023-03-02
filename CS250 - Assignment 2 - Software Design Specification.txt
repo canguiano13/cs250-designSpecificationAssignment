@@ -1,5 +1,5 @@
 ﻿Group 13 - Munch Wagon
-Team Members: Erasto Astudillo, Felix Marecaux, Aidan Shotland, Carlos Anguiano
+Team Members: Erasto Damian, Felix Marecaux, Aidan Shotland, Carlos Anguiano
 
 
 System Description:
